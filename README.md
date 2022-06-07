@@ -8,8 +8,6 @@
 
 ---
 
-
-
 <p float="center">
     <img src="https://github.com/SDBranka/Habit_Tracker/blob/main/Resources/Screenshot0.png" width=45% alt="graph one" />
     <img src="https://github.com/SDBranka/Habit_Tracker/blob/main/Resources/Screenshot1.png" width=45% alt="graph two" />
@@ -19,11 +17,13 @@
 
 This app assists a user in building new habits by tracking the frequency of an activity.
 
+- The graph and data for this project may be viewed at https://pixe.la/v1/users/testhabittracker/graphs/graph1.html
+
 ##### Controls
 
-- The graph and data for this account may be viewed at https://pixe.la/v1/users/testhabittracker/graphs/graph1.html
+- to run this app you will need to update the USERNAME, TOKEN, and GRAPH_ID variables 
 
-- 
+
 
 ##### Technologies
 

@@ -1,0 +1,19 @@
+Pixela
+https://pixe.la/
+
+Pixela API Documentation
+https://docs.pixe.la/
+
+This Pixela account
+https://pixe.la/@testhabittracker
+
+This Pixela graph
+https://pixe.la/v1/users/testhabittracker/graphs/graph1.html
+
+Requests Module Documentation
+https://requests.readthedocs.io/en/latest/api/
+
+Python Datetime
+https://www.w3schools.com/python/python_datetime.asp
+
+

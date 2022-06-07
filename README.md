@@ -8,6 +8,13 @@
 
 ---
 
+
+
+<p float="center">
+    <img src="https://github.com/SDBranka/Habit_Tracker/blob/main/Resources/Screenshot0.png" width=45% alt="graph one" />
+    <img src="https://github.com/SDBranka/Habit_Tracker/blob/main/Resources/Screenshot1.png" width=45% alt="graph two" />
+</p>
+
 ## Description
 
 This app assists a user in building new habits by tracking the frequency of an activity.

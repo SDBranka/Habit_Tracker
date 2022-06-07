@@ -4,15 +4,13 @@ import random
 
 
 pixela_endp = "https://pixe.la/v1/users"
-# # username must be between 1 and 32 
-# # characters and be all lower case
-# USERNAME = "YOUR USERNAME"
-# # token must be between 8 and 128 long
-# TOKEN = "YOUR SELF GENERATED TOKEN"
-# GRAPH_ID = "YOUR GRAPH ID"
-USERNAME = "testhabittracker"
-TOKEN = "testHabitTracker"
-GRAPH_ID = "graph1"
+# username must be between 1 and 32 
+# characters and be all lower case
+USERNAME = "YOUR USERNAME"
+# token must be between 8 and 128 long
+TOKEN = "YOUR SELF GENERATED TOKEN"
+GRAPH_ID = "YOUR GRAPH ID"
+
 
 # passing the token via headers
 headers = {
